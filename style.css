@@ -1,0 +1,50 @@
+p {
+
+    color: royalblue; 
+
+}
+
+h1 {
+    font-size: 48px;
+    color: darkred;
+    background-color: rgb(121, 120, 120);
+    border: 2px solid red;
+}
+
+body {
+
+    background-image: url(The-Ambience/background.avif);
+}
+
+h2 {
+
+font-size: 48px;
+color : red;
+background-color: rgb(121, 120, 120);
+border: 2px solid darkred ;
+/*
+
+Takeru Diadmond
+*/
+
+}
+
+h3 { 
+/*
+h3 - subtitulo de um atributo
+*/
+
+font-size: 32px ;
+color: blueviolet;
+border: 2px solid rgb(0, 81, 128);
+
+}
+
+h4 {
+
+font-size: 30px ;
+color: blue;
+outline-color: blue;
+
+}
+
